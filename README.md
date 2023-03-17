@@ -1,5 +1,13 @@
 # Hackerman-Console
 
+     _____________________________________________________________________________
+    |  _   _   _____   ____   _  __   ____   _____   ___  ___   _____   ___    _  |
+    | | |_| | |  _  | |  __| | |/ /  |  __| |  _  | |   \/   | |  _  | |   \  | | |
+    | |  _  | | |_| | | |    |   /   | |_   | |_| | | |\  /| | | |_| | | |\ \ | | |
+    | | | | | |  _  | | |__  | |\ \  |  _|  |    _| | | \/ | | |  _  | | | \ \| | |
+    | |_| |_| |_| |_| |____| |_| \_\ |____| |_|\_\  |_|    |_| |_| |_| |_|  \___| |
+    |_____________________________________________________________________________|
+
 I created this tool to help during CTFs and I will add new modules or attacks to existing modules every time I face a new challenge.
 
 Feel free to create pull requests to improve modules or add new ones.
